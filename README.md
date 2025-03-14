@@ -1,4 +1,4 @@
-# EZ-GAME-in-Python
+# Zelda in Python ( e altri linguaggi di programmazione )
 Salve , oggi con miei 2 amici programmatori faremo un gioco in Python ,
 il quale il codice sarà altamente open source , gratis e con una
 sicurezza dei dati molto alta , dato che NON sarà in alcun modo ritracciato il giocatore
