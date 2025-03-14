@@ -157,7 +157,8 @@ M	          |      Toggle Upgrade Menu
 2 ) Atom
 
 3 ) VIm
-   3 . 5 ) NeoVim
+ 
+  3 . 5 ) NeoVim
 
 4 ) KWrite
 
