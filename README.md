@@ -168,10 +168,10 @@ M	          |      Toggle Upgrade Menu
 1 . sarà gratis ?
 si
 
-2. sarà compatibile anche con sistemi operativi vecchi come windows Vista?
+2 . sarà compatibile anche con sistemi operativi vecchi come windows Vista?
 si , ma sarà molto compliccato
 
-3. dove sarà pubblicato ?
+3 . dove sarà pubblicato ?
 qua su github
 
 ---------------------------------------------
