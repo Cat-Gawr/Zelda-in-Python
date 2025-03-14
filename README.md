@@ -176,5 +176,5 @@ qua su github
 
 ---------------------------------------------
 
-NON COPYRIGHT© DEL PROGETTO TUTTO GRATIS           -     Collaboratori : Zenith  ,Darl e Cat-Gawr ( owner )        
+NON COPYRIGHT© DEL PROGETTO TUTTO GRATIS           -     Collaboratori : Zenith  ,Dark e Cat-Gawr ( owner )        
    
