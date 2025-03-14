@@ -10,6 +10,22 @@ sicurezza dei dati molto alta , dato che NON sarà in alcun modo ritracciato il 
 > 2 - Pacman
 > 3 - Gioco in stile Super Mario Bros
 
+
+--------------------------------------------
+USARE GIT 
+---------
+.. code-block:: bash
+
+    $ git clone https://github.com/Cat-Gawr/EZ-GAME-in-Python
+    $ cd EZ-GAME-in-Python
+
+    # To install (requires setuptools)
+    $ python2 setup.py install
+    $ EZ-GAME-in-Python
+
+    # To run from source (requires pygame and pyaudio to be installed):
+    $ python2 src/main.py
+
 # VARI AGGIORNAMENTI № 1
 ---------------------------------------------
 il 15 / 03 / 2025 faremo un aggiunta di file in Python , ma anche in:
