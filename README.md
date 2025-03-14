@@ -6,8 +6,12 @@ sicurezza dei dati molto alta , dato che NON sarà in alcun modo ritracciato il 
 > [!NOTE]
 > il fatto che il gioco non si sa ancora quale sarà ma abbiamo
 > 2 opzioni massimo 3 :
+> 
+>
 > 1 - Gioco in sstile Zelda
+>
 > 2 - Pacman
+>
 > 3 - Gioco in stile Super Mario Bros
 
 
