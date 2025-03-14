@@ -109,6 +109,18 @@ L'utlizzo del Terminale sia di Visual Studio Code ( AKA VsCode ) o del CMD ( AKA
     - WinEdt
     
     - LyX
+
+---------------------------------------------
+# Controlli
+
+Key	               Description
+Arrow Keys	       Move
+Space Bar	       Attack
+Left Control       Magic
+Q	               Change Weapon
+E	               Change Magic
+M	               Toggle Upgrade Menu
+
     
 ---------------------------------------------
 
