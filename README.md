@@ -113,20 +113,20 @@ L'utlizzo del Terminale sia di Visual Studio Code ( AKA VsCode ) o del CMD ( AKA
 ---------------------------------------------
 # Controlli
 
-Key	               Description
+Key	          |     Description
 
 
-Arrow Keys	       Move
+Arrow Keys	  |     Move
 
-Space Bar	       Attack
+Space Bar	  |     Attack
 
-Left Control       Magic
+Left Control  |     Magic
 
-Q	               Change Weapon
+Q	          |     Change Weapon
 
-E	               Change Magic
+E	          |      Change Magic
 
-M	               Toggle Upgrade Menu
+M	          |      Toggle Upgrade Menu
 
     
 ---------------------------------------------
