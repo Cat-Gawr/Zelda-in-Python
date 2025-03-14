@@ -1,7 +1,7 @@
 # Filename  : Image2Map.py
-# Authors   : Georg Muntingh and Bjorn Lindeijer
+# Authors   : Cat-Gawr
 # Version   : 1.2
-# Date      : June 16, 2010
+# Date      : 14 / 03 / 2025
 # Copyright : Public Domain
 
 import os, sys, Image, networkx
