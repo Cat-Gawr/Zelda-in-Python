@@ -18,7 +18,7 @@ sicurezza dei dati molto alta , dato che NON sarà in alcun modo ritracciato il 
 --------------------------------------------
 USARE GIT 
 ---------
-.. code-block:: bash
+.. code-block:: bash ( NON FARLO PERCHé CI SONO ERRORI ! ) 
 
     $ git clone https://github.com/Cat-Gawr/EZ-GAME-in-Python
     $ cd EZ-GAME-in-Python
