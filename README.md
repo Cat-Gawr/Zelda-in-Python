@@ -1,5 +1,5 @@
 # Zelda in Python ( e altri linguaggi di programmazione )
-# PROGETTO SOSPESO FIMO AL 20 DI MAGGIO
+# PROGETTO SOSPESO FINO AL 20 DI MAGGIO
 
 Salve , oggi con miei 2 amici programmatori faremo un gioco in Python ,
 il quale il codice sarà altamente open source , gratis e con una
